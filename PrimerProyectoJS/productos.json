@@ -1,0 +1,35 @@
+[{"id":"gpu1","nombre":"rtx 3080 Msi", "descripcion": ["10GB de Vram GDDR6X", "Tecnologia DLSS y RTX",
+    "Hdmi 2.1 hasta 8k de resolucion"],"consumo":"350w", "marca":"Msi/Nvidia", "imagen":"rtxMsi.jpg", "precio":"$250000"},
+    
+    {"id":"gpu2","nombre":"rtx 3070 Asus", "descripcion": ["8GB de Vram GDDR6X", "Tecnologia DLSS y RTX",
+    "Hdmi 2.1 hasta 6k de resolucion"],"consumo":"220w", "marca":"Asus/Nvidia", "imagen":"rtxAsus.jpg", "precio":"$210000"},
+    
+    {"id":"gpu3","nombre":"rtx 3090 Aorus", "descripcion": ["12GB de Vram GDDR6", "Tecnologia DLSS y RTX",
+    "Hdmi 2.1 hasta 6k de resolucion"],"consumo":"400w", "marca":"Aorus/Nvidia", "imagen":"rtxAorus.jpg", "precio":"$300000"},
+    
+    
+    {"id":"cpu1","nombre":"Ryzen 9 5950x", "socket":"AM4", "descripcion":["16 Nucleos 32 Hilos a 7nm By TSMC"], "consumo":"105w", "ramsupport":"ddr4","imagen":"r9.jpg", "precio":"$110000"},
+    {"id":"cpu2","nombre":"Intel I5 12600k", "socket":"1700", "descripcion":["6Pcores 4Ecores 16 hilos 7nm TSMC/Intel"], "consumo":"150w", "ramsupport":"ddr5,ddr4","imagen":"i5.jpg", "precio":"$50000"},
+    {"id":"cpu3","nombre":"Intel I9 12900k", "socket":"1700", "descripcion":["8Pcores 8Ecores 24 hilos 7nm TSMC/Intel"], "consumo":"240w", "ramsupport":"ddr5,ddr4","imagen":"i9.jpg", "precio":"$80000"},
+    
+    {"id":"ram1","nombre":"32gb ram", "marca":"Oloy", "descripcion":["3200mhz", "ddr4"], "consumo":"5w", "ramsupport":"ddr4","imagen":"32gb.jpg", "precio":"$20000"},
+    {"id":"ram2","nombre":"16gb ram", "marca":"Patriot", "descripcion":["3200mhz","ddr4"], "consumo":"5w", "ramsupport":"ddr4","imagen":"16gb.jpg", "precio":"$15000"},
+    {"id":"ram3","nombre":"64gb ram", "marca":"Corsair", "descripcion":["5500mhz,", "ddr5"], "consumo":"15w", "ramsupport":"ddr5","imagen":"64gb.jpg", "precio":"$40000"},
+    
+    
+    {"id":"mobo1","nombre":"x570", "marca":"Aorus", "socket":"am4", "descripcion":["terte"], "ramsupport":"ddr4", "imagen":"x570.jpg", "precio":"$25000"},
+    {"id":"mobo2","nombre":"b550", "marca":"Asus", "socket":"am4", "descripcion":["tete"], "ramsupport":"ddr4", "imagen":"b550.jpg", "precio":"$15000"},
+    {"id":"mobo3","nombre":"Z690", "marca":"Aorus", "socket":"1700", "descripcion":["tertert"], "ramsupport":"ddr5", "imagen":"z590.jpg", "precio":"$25000"},
+    
+    {"id":"fnt1","nombre":"fuente 750w", "marca":"Aorus", "descripcion":["80P Gold"], "wattage":"750w", "garantia":false, "imagen":"750w.jpg", "precio":"$20000"},
+    {"id":"fnt2","nombre":"fuente 850w", "marca":"Seasonic", "descripcion":["80P Platinum"], "wattage":"850w", "garantia":true, "imagen":"850w.jpg", "precio":"$30000"},
+    {"id":"fnt3","nombre":"fuente 1200w", "marca":"Corsair", "descripcion":["80P Platinum"], "wattage":"1200w", "garantia":true, "imagen":"1200w.jpg", "precio":"$35000"},
+    
+    {"id":"case1","nombre":"Gabinete KingFight", "marca":"Sate", "descripcion":["6 coolers rgb"], "color":"negro", "AntiPolvo":true, "imagen":"gab1.jpg", "precio": "$20000"},
+    {"id":"case2","nombre":"Gabinete Icue h220", "marca":"Corsair", "descripcion":["3 coolers rgb"], "color":"negro", "AntiPolvo":true, "imagen":"gab2.jpg", "precio": "$18000"},
+    {"id":"case3","nombre":"Gabinete Coolermaster", "marca":"Coolermaster", "descripcion":["3 coolers rgb"], "color":"blanco", "AntiPolvo":false, "imagen":"gab3.jpg", "precio": "$25000"},
+    
+    {"id":"ssd1","nombre":"SSD 512gb", "marca":"Kingston", "descripcion":["sata 3"],"imagen":"512.jpg", "precio": "$5000" },
+    {"id":"ssd2","nombre":"SSD 1tb", "marca":"WesternDigital", "descripcion":["m.2"],"imagen":"1tb.jpg", "precio": "$10000" },
+    {"id":"hdd3","nombre":"HDD 2TB", "marca":"WesternDigital", "descripcion":["sata 3"],"imagen":"2tb.jpg", "precio": "$7000" }
+    ]
