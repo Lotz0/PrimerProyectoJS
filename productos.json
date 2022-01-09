@@ -1,7 +1,7 @@
 [{"id":"gpu1","nombre":"rtx 3080 Msi", "descripcion": ["10GB de Vram GDDR6X", "Tecnologia DLSS y RTX",
     "Hdmi 2.1 hasta 8k de resolucion"],"consumo":"350w", "marca":"Msi/Nvidia", "imagen":"rtxMsi.jpg", "precio":"$250000"},
     
-    {"id":"gpu2","nombre":"rtx 3070 Asus", "descripcion": ["8GB de Vram GDDR6X", "Tecnologia DLSS y RTX",
+    {"id":"gpu2","nombre":"rtx 3070 Asus", "descripcion": ["8GB de Vram GDDR6X", "Tecnologia DLss y RTX",
     "Hdmi 2.1 hasta 6k de resolucion"],"consumo":"220w", "marca":"Asus/Nvidia", "imagen":"rtxAsus.jpg", "precio":"$210000"},
     
     {"id":"gpu3","nombre":"rtx 3090 Aorus", "descripcion": ["12GB de Vram GDDR6", "Tecnologia DLSS y RTX",
