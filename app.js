@@ -1,13 +1,13 @@
 //array de productos
 
 const productos = [{nombre:"rtx 3080 Msi", descripcion: ["10GB de Vram GDDR6X", "Tecnologia DLSS y RTX",
-"Hdmi 2.1 hasta 8k de resolucion"],consumo:"350w", marca:"Msi/Nvidia", imagen:"rtxmsi.jpg", precio:"$250000"},
+"Hdmi 2.1 hasta 8k de resolucion"],consumo:"350w", marca:"Msi/Nvidia", imagen:"rtxMsi.jpg", precio:"$250000"},
 
 {nombre:"rtx 3070 Asus", descripcion: ["8GB de Vram GDDR6X", "Tecnologia DLSS y RTX",
-"Hdmi 2.1 hasta 6k de resolucion"],consumo:"220w", marca:"Asus/Nvidia", imagen:"rtxasus.jpg", precio:"$210000"},
+"Hdmi 2.1 hasta 6k de resolucion"],consumo:"220w", marca:"Asus/Nvidia", imagen:"rtxAsus.jpg", precio:"$210000"},
 
 {nombre:"rtx 3090 Aorus", descripcion: ["12GB de Vram GDDR6", "Tecnologia DLSS y RTX",
-"Hdmi 2.1 hasta 6k de resolucion"],consumo:"400w", marca:"Aorus/Nvidia", imagen:"rtxaorus.jpg", precio:"$300000"},
+"Hdmi 2.1 hasta 6k de resolucion"],consumo:"400w", marca:"Aorus/Nvidia", imagen:"rtxAorus.jpg", precio:"$300000"},
 
 
 {nombre:"Ryzen 9 5950x", socket:"AM4", descripcion:["16 Nucleos 32 Hilos a 7nm By TSMC"], consumo:"105w", ramsupport:"ddr4",imagen:"r9.jpg", precio:"$110000"},
